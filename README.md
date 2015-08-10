@@ -1,5 +1,5 @@
 
-Qualify Test Data: Samples
+Qualify Test Data: samples
 ==================================
 In this repository you will find execution file samples for Qualify executor. 
 
@@ -18,5 +18,5 @@ Example *arguments.txt* content is like following:
 
 File is required to be in *.zip* format which contains everything that is required by tests.
 
-Template is under [``robotframework``](https://github.com/Qualifylabs/testdata-samples/robotframework/)
+Template is under [``robotframework``](https://github.com/Qualifylabs/testdata-samples/tree/master/robotframework)
 
