@@ -1,0 +1,5 @@
+--loglevel  INFO
+# << Tags should be planed in here, example :
+# --exclude not_ready
+--suite
+*.tests.*

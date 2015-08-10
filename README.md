@@ -1,5 +1,5 @@
 
-Qulify Test Execution: File Samples
+Qualify Test Data: Samples
 ==================================
 In this repository you will find execution file samples for Qualify executor. 
 
